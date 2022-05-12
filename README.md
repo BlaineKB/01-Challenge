@@ -9,5 +9,5 @@ The Horiseon landing page gives high level information on services and benefits 
 
 
 ## URL of Landing Page
-file:///C:/Users/Blaine/bootcamp/01-Challenge-Horiseon/Develop/index.html#social-media-marketing
+https://blainekb.github.io/01-Challenge-Horiseon/
 
